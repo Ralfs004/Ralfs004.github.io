@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(120, 120, 120);
+}
 img {
     position: absolute;
     align-items: center;
@@ -15,6 +18,8 @@ ul{
 }
 .at{
     margin-left: 37px;
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     text-decoration: none;
+    font-size: large;
+    font-family: Verdana;
 }
