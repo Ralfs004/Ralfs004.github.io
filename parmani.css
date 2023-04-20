@@ -15,7 +15,14 @@ ul{
     height: 50px;
     justify-content: space-around;
     list-style: none;
+    color: rgb(0, 0, 0);
 }
+li{
+    list-style: none;
+}
+    a:hover{
+        color:rgb(255, 255, 255);
+    }
 .at{
     margin-left: 37px;
     color: rgb(0, 0, 0);
