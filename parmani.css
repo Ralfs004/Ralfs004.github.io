@@ -1,0 +1,20 @@
+img {
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+}
+
+ul{
+    display: flex;
+    position: fixed;
+    height: 50px;
+    justify-content: space-around;
+    list-style: none;
+}
+.at{
+    margin-left: 37px;
+    color: blueviolet;
+    text-decoration: none;
+}
