@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(120, 120, 120);
+}
+
+img {
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+}
+
+ul {
+  display: flex;
+  position: fixed;
+  height: 50px;
+  justify-content: space-around;
+  list-style: none;
+  color: rgb(0, 0, 0);
+}
+li {
+  list-style: none;
+}
+a:hover {
+  color: rgb(255, 255, 255);
+}
+.at {
+  margin-left: 37px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: large;
+  font-family: Verdana;
+}
+
+.telefons {
+  margin-left: 37px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: large;
+  font-family: Verdana;
+}
+
+div {
+  row-gap: 40px;
+  column-gap: 40px;
+}
