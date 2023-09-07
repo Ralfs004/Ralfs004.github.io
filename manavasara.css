@@ -1,0 +1,27 @@
+.item-1 {
+    background-color: rgb(152, 255, 149);
+    }
+    .item-2 {
+        background-color: rgb(167, 183, 255);
+    }
+    .item-3 {
+        background-color: rgb(255, 181, 181);
+    }
+    .container{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1000px 1000px 1000px;
+    }
+    .kaka{
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        width: 350px;
+        height: 350px;
+      }
+      p{
+        font-size: 30px;
+      }
+      h1{
+        font-size: 70px;
+      }
