@@ -1,11 +1,11 @@
 .item-1 {
-    background-color: rgb(152, 255, 149);
+    background-color: rgb(211, 211, 211);
     }
     .item-2 {
-        background-color: rgb(167, 183, 255);
+        background-color: rgbrgb(169,169,169);
     }
     .item-3 {
-        background-color: rgb(255, 181, 181);
+        background-color: rgb(211, 211, 211);
     }
     .container{
         display: grid;
